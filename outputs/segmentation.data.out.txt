@@ -1,0 +1,23 @@
+--------------HOLD OUT SET: 1---------------
+Error % without pruning: 9.85576923076923
+Error % with pruning: 11.778846153846153
+
+--------------HOLD OUT SET: 2---------------
+Error % without pruning: 13.461538461538462
+Error % with pruning: 16.346153846153847
+
+--------------HOLD OUT SET: 3---------------
+Error % without pruning: 6.730769230769231
+Error % with pruning: 8.413461538461538
+
+--------------HOLD OUT SET: 4---------------
+Error % without pruning: 9.85576923076923
+Error % with pruning: 9.134615384615383
+
+--------------HOLD OUT SET: 5---------------
+Error % without pruning: 12.01923076923077
+Error % with pruning: 12.740384615384615
+
+--------------AVERAGE PERFORMANCE---------------
+Error % without pruning: 10.384615384615383
+Error % with pruning: 11.682692307692308

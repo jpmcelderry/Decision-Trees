@@ -1,0 +1,23 @@
+--------------HOLD OUT SET: 1---------------
+MSE without early stop: 2254.519005847953
+MSE with early stop: 2309.655045249143
+
+--------------HOLD OUT SET: 2---------------
+MSE without early stop: 20033.213546086903
+MSE with early stop: 20279.038282929014
+
+--------------HOLD OUT SET: 3---------------
+MSE without early stop: 16184.558479532165
+MSE with early stop: 16195.290921052632
+
+--------------HOLD OUT SET: 4---------------
+MSE without early stop: 4228.325815901169
+MSE with early stop: 4175.1639006964915
+
+--------------HOLD OUT SET: 5---------------
+MSE without early stop: 2675.767781068811
+MSE with early stop: 2851.8371362918024
+
+--------------AVERAGE PERFORMANCE---------------
+Error % without early stop: 9075.2769256874
+Error % with early stop: 9162.197057243817
